@@ -7,7 +7,7 @@ setup(
     name="agenticSeek",
     version="0.1.0",
     author="",
-    author_email="mlg.fcu@gmail.com",
+    author_email="",
     description="The open, local alternative to ManusAI",
     long_description=long_description,
     long_description_content_type="text/markdown",
