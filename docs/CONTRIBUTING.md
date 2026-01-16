@@ -98,7 +98,7 @@ Agents invoke tools using a standardized format called a block. A block consists
 
 The format looks like this:
 
-BECAUSE WE USE MARKDOWN QUOTE FORMAT, READING WILL BE BROKEN ON GITHUB PLEASE START READING THE FILE AS RAW:  https://raw.githubusercontent.com/Fosowl/agenticSeek/refs/heads/dev/docs/CONTRIBUTING.md
+BECAUSE WE USE MARKDOWN QUOTE FORMAT, READING WILL BE BROKEN ON GITHUB PLEASE START READING THE FILE AS RAW:  https://raw.githubusercontent.com/hiepm94/agentic-seek-revolution/refs/heads/dev/docs/CONTRIBUTING.md
 
 
 ```<tool name>

@@ -6,12 +6,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="agenticSeek",
     version="0.1.0",
-    author="Fosowl",
+    author="",
     author_email="mlg.fcu@gmail.com",
     description="The open, local alternative to ManusAI",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Fosowl/agenticSeek",
+    url="https://github.com/hiepm94/agentic-seek-revolution",
     packages=find_packages(),
     include_package_data=True,
     install_requires=[

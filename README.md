@@ -8,7 +8,6 @@
 
 *A **100% local alternative to Manus AI**, this voice-enabled AI assistant autonomously browses the web, writes code, and plans tasks while keeping all data on your device. Tailored for local reasoning models, it runs entirely on your hardware, ensuring complete privacy and zero cloud dependency.*
 
-[![Visit AgenticSeek](https://img.shields.io/static/v1?label=Website&message=AgenticSeek&color=blue&style=flat-square)](https://fosowl.github.io/agenticSeek.html) ![License](https://img.shields.io/badge/license-GPL--3.0-green) [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?logo=discord&logoColor=white)](https://discord.gg/8hGDaME3TC) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/fosowl.svg?style=social&label=Update%20%40Fosowl)](https://x.com/Martin993886460) [![GitHub stars](https://img.shields.io/github/stars/Fosowl/agenticSeek?style=social)](https://github.com/Fosowl/agenticSeek/stargazers)
 
 ### Why AgenticSeek ?
 
@@ -49,7 +48,7 @@ Before you begin, ensure you have the following software installed:
 ### 1. **Clone the repository and setup**
 
 ```sh
-git clone https://github.com/Fosowl/agenticSeek.git
+git clone https://github.com/hiepm94/agentic-seek-revolution.git
 cd agenticSeek
 mv .env.example .env
 ```
@@ -368,7 +367,7 @@ Clone the repository and enter the `server/`folder.
 
 
 ```sh
-git clone --depth 1 https://github.com/Fosowl/agenticSeek.git
+git clone --depth 1 https://github.com/hiepm94/agentic-seek-revolution.git
 cd agenticSeek/llm_server/
 ```
 
@@ -688,14 +687,9 @@ See [Contributing.md](./docs/CONTRIBUTING.md) to learn how to integrate custom t
 
 - [tatra-labs](https://github.com/tatra-labs)
 
-## Maintainers:
 
- > [Fosowl](https://github.com/Fosowl) | Paris Time 
-
- > [antoineVIVIES](https://github.com/antoineVIVIES) | Taipei Time 
 
 ## Special Thanks:
 
  > [tcsenpai](https://github.com/tcsenpai) and [plitc](https://github.com/plitc) For helping with backend dockerization
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Fosowl/agenticSeek&type=Date)](https://www.star-history.com/#Fosowl/agenticSeek&Date)

@@ -223,7 +223,7 @@ function App() {
         </div>
         <div className="header-actions">
           <a
-            href="https://github.com/Fosowl/agenticSeek"
+            href="https://github.com/hiepm94/agentic-seek-revolution"
             target="_blank"
             rel="noopener noreferrer"
             className="action-button github-link"
